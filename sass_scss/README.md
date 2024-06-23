@@ -7,3 +7,4 @@
 6-nested_hover.scss
 7-nested_deeper.scss
 8-mixin_margins.scss
+9-extend_list.scss
