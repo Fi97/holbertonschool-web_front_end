@@ -4,3 +4,4 @@
 3-nested_tag.scss
 4-nested_class.scss
 5-nested_child.scss
+6-nested_hover.scss
