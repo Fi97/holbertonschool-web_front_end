@@ -5,3 +5,4 @@
 4-nested_class.scss
 5-nested_child.scss
 6-nested_hover.scss
+7-nested_deeper.scss
