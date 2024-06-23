@@ -9,3 +9,4 @@
 8-mixin_margins.scss
 9-extend_list.scss
 10-import_colors.scss
+11-loop_photos.scss
