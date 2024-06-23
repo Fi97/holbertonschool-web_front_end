@@ -1,6 +1,6 @@
-@mixin margin($px) {
-	margin-left: $px;
-	margin-right: $px;
+@mixin margin($size) {
+	margin-left: $size;
+	margin-right: $size;
 }
 
 body {
