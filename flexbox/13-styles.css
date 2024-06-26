@@ -601,9 +601,9 @@ text-transform: uppercase;}
         border-bottom: 0.2rem solid var(--color-light-grey);
     }
 
-    .post-meta-list [class*="post-meta"]:last-child{
-border: 0;
+    .post-meta-list [class*="post-meta"]:last-child {
 margin-bottom: 3rem;
+border: 0px;
     }
     /* Tag list
     ============================= */
