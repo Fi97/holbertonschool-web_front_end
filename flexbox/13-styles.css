@@ -603,7 +603,7 @@ text-transform: uppercase;}
 
     .post-meta-list [class*="post-meta"]:last-child {
 margin-bottom: 3rem;
-border: 0px;
+border: none;
     }
     /* Tag list
     ============================= */
