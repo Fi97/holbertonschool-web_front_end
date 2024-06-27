@@ -3,3 +3,4 @@
 2. create labels and input container
 3. create the inputs
 4. add help messages
+5. add pure HTML / CSS error handling
