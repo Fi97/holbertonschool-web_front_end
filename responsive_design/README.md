@@ -5,3 +5,4 @@
 4. Create the mobile icon and hide the menu
 5. Hamburger!
 6. Add the behavior based on menu-btn state
+7. Make the font size responsive
