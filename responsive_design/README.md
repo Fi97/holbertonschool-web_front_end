@@ -8,3 +8,4 @@
 7. Make the font size responsive
 8. Improve the "Works" section
 9. Improve the "Footer" section
+10. Fix the top header background
