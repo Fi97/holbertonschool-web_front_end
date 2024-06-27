@@ -4,3 +4,4 @@
 3. create the inputs
 4. add help messages
 5. add pure HTML / CSS error handling
+6. add the search form
