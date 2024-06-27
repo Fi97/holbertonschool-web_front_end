@@ -2,3 +2,4 @@
 1. more comment basic structure
 2. create labels and input container
 3. create the inputs
+4. add help messages
