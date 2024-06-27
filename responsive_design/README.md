@@ -7,3 +7,4 @@
 6. Add the behavior based on menu-btn state
 7. Make the font size responsive
 8. Improve the "Works" section
+9. Improve the "Footer" section
